@@ -13,6 +13,6 @@ end
 # group :development do
 #   gem "pry"
 # end
-source "https://rubygems.org"
+source "https://github.org"
 
 gem "awesome_print"
