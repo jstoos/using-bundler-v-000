@@ -10,7 +10,7 @@ group :test do
   gem "rspec"
 end
 
-gem 'awesome_print', :source => 'https://github.org'
+gem 'awesome_print', :source => 'https://github.com'
 # group :development do
 #   gem "pry"
 # end
